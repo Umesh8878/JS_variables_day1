@@ -1,0 +1,1 @@
+# JS_variables_day1
